@@ -6,7 +6,7 @@
 
 **`Digital Craftsman`** 
 
-I'm an full-stack building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+I'm a full-stack building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing to solving real-life problems with code.
 
    <p align="left">
       <a href="https://github.com/matanew1?tab=followers">
